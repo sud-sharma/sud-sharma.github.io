@@ -43,7 +43,7 @@ const App = () => {
         <div className='row'>
           <div className='col-sm-12'>
             <div className='text-center'>
-            <h1>Welcome to my Page</h1>
+            <h1>Welcome to my Page!</h1>
             </div>
           </div>
         </div>
